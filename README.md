@@ -22,3 +22,7 @@
 * 40  => Midterm(20) และ Final (20)
 * 40  => Mini project (Group)
 * 20  => Quiz
+
+
+# Code Example
+* [Working with Silk](https://github.com/up1/working-with-silk)

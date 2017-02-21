@@ -5,7 +5,7 @@
 * Day 3 :: [Present](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day03)
 * Day 4 :: [Introduction to RESTful API](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day04)
 * Day 5 :: [Desing RESTful API](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day05)
-* Day 6 :: Develop microservice with Spring Boot + Present
+* Day 6 :: [Develop microservice with Spring Boot + Present](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day06)
 * Day 7 :: Develop microservice with Spring Boot
 * Day 8 :: Technologies to develop microservice
 * Day 9 :: Service communication (Synchronous and Asynchronous)  + Present

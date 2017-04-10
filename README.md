@@ -16,6 +16,10 @@
 * Day 14 :: Scaling service
 * Day 15 :: Present
 
+# More resources
+
+* [Microservice Testing](https://martinfowler.com/articles/microservice-testing/)
+
 
 # การวัดผล
 

@@ -11,8 +11,8 @@
 * Day 9 :: [Service communication (Synchronous and Asynchronous)  + Present](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day10)
 * Day 10 :: [Containerization with Docker](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day09)
 * Day 11 :: [Containerization](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day09)
-* Day 12 :: Monitoring and Logging  + Present
-* Day 13 :: API gateway
+* Day 12 :: [Monitoring and Logging](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day11)
+* Day 13 :: API gateway + (Present)
 * Day 14 :: Scaling service
 * Day 15 :: Present
 

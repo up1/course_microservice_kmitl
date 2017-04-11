@@ -13,7 +13,7 @@
 * Day 11 :: [Containerization](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day09)
 * Day 12 :: [Monitoring and Logging](https://github.com/up1/course_microservice_kmitl/tree/master/slide/day11)
 * Day 13 :: API gateway + (Present)
-* Day 14 :: Scaling service
+* Day 14 :: Scaling service +  + (Present)
 * Day 15 :: Present
 
 # More resources
